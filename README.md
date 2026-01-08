@@ -1,4 +1,4 @@
-# 180DaysofLearning Daily Checklist - ✅
+# 180_Days_of_Learning Daily Checklist - ✅
 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
