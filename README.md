@@ -6,7 +6,7 @@
 Date - 9/01/2026
 
 - [x] Learningn Linux 
- - user & group managem
+ - user & group management
  - acces control list 
  - linux advancd file security
  - how to use filter command 
