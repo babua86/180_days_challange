@@ -7,6 +7,7 @@ Date - 9/01/2026
 
 - [x] Learningn Linux 
  - user & group management
+   - link 
  - acces control list 
  - linux advancd file security
  - how to use filter command 
@@ -15,7 +16,6 @@ Date - 9/01/2026
  - linux soft link / hard link
  - history of lunix
  - linux miscellaneous
-
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
