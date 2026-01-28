@@ -36,16 +36,14 @@ Date - 27/01/26
        - what is networking
 
        - Data Transmission Mode-
-           - Simplex,Half Duplex and Full Duplex
+
+          - Simplex,Half Duplex and Full Duplex
 
        - OSI model
 
           - application,presentation,session,transport,network,data link,physical layer......
 
-       -
-
-
-
+       
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
