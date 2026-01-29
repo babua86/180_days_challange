@@ -56,8 +56,8 @@ Date - 28/01/26
 
 Date - 29/01/26
 
- - IP V4
- - IP V6
+ - IPV4
+ - IPV6
  - Subnetting
  - Domain name system (DNS)
  - simple mail transfer protocol (SMTP)
@@ -66,5 +66,10 @@ Date - 29/01/26
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
