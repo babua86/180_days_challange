@@ -59,17 +59,48 @@ Date - 29/01/26
  - IPV4
  - IPV6
  - Subnetting
- - Domain name system (DNS)
- - simple mail transfer protocol (SMTP)
 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
+Date - 30/01/26
 
+- [x] Learning Python
+ - Bassic command
+ -  fundamamental
 
 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 31/01/26
 
+ - IPV4 Header
+ - Routing Table
+ - Subneting advance
+ - Provite network per host use to subnet mask
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 01/02/26
+
+ - SMTP
+ - FTP,SFTP,TFTP
+ - POP3
+ - IMAP
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 02/02/26
+
+ - DNS
+ - DHCP
+ - ARP,RARP,PROXY ARP,GRATUITOUS ARP
+ - What is Wi-Fi,How Wi-Fi Works
+ - What is HTTP-HTTPS, and HTTP vs HTTPS 
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
