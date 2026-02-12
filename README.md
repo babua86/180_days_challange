@@ -137,7 +137,74 @@ Date - 05/02/2026
 
 Date - 06/02/26
 
- - 
+- [x] Learning Footprinting
+
+- Introduction to Footprinting and Objective { active,passive }
+- Introduction through search Engines
+- Introduction to OSINT
+- Email Footprinting
+- Website Footprinting
+  
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 07/02/2026
+
+- Compatitive Intelligence
+- Internet Archive
+- wget Mirroring
+- Website Mirroring with httrack
+- whois lookup
+- Introduction to DNS Footprinting
+- DNS Resource Record
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 08/02/2026
+
+- DNS Footprinting with DNS Dumpster
+- dns.google.com
+- Network Footprinting
+- Introduction and working of Traceroute
+- Traceroute Analysis
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 09/02/2026
+
+- Introduction to Maltego
+- Maltego Information Gathering with domain name
+- Maltego Information Gathering with IP Address
+- Maltego using the Tool Effciently
+- Maltego Tranform Hub
+- Maltego Integration with Shodan
+  
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 10/02/2026
+
+- OSINT Fremwork
+- theHarvester
+- Whatweb
+- Wappalyzer
+- sublist3r
+- Virustotal and Pentest Tool practical ( subdomain finder )
+- netdiscover
+- Major IP Block (website)
+    
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 11/02/2026
+
+- Google Dorking Introduction
+- Google Dorking Practical
+- Footprinting with Social Engineering
+- Footprinting Countermeasures
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 12/02/2026
+
+- [x] Learning Burp Suite
 
 
 
@@ -145,3 +212,45 @@ Date - 06/02/26
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 07/02/2026
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
