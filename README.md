@@ -206,24 +206,21 @@ Date - 12/02/2026
 
 - [x] Learning Burp Suite
 
+- Setup Brup Suite with Proxy
+- Brup Suite Intersepter ( Practical )
+- Brup Suite Repeater ( Practical )
+- Brup Suuite Intruder ( Practical )
+- Brup Suite Sequencer ( Practical )
 
 
+- [x] Learning HTTP & HTTPS
 
-
+- What is HTTP and HTTPS
+- HTTP VS HTTPS
+  
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-Date - 07/02/2026
-
-
-
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-
-
-
-
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
+Date - 13/02/2026
 
 
 
@@ -231,24 +228,39 @@ Date - 07/02/2026
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 14/02/2026
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 15/02/2026
 
 
 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
+Date - 16/02/2026
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 17/02/2026
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 18/02/2026
 
 
 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-
-
-
-
-![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
+Date - 19/02/2026
 
 
 
