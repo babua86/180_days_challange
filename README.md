@@ -223,48 +223,215 @@ Date - 12/02/2026
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 13/02/2026
-
-
-
-
-
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 14/02/2026
-
-
-
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 15/02/2026
-
-
-
-
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 16/02/2026
-
-
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 17/02/2026
 
-
-
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 18/02/2026
 
+- [x] Learning - Scanning
 
-
-
+- Basics of scanning
+- scanning of methodology
+- working with ping
+- use Angry ip scanner tool
+- TCP Flags
+- TCP 3-way Handshake
+- introduction to port
+- Port scanning
+- Types of Port scanning..
+    
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 19/02/2026
 
+- Types of port scanning - Practical
+
+    - TCP
+    - ACK
+    - SYN 
+    - UDP
+    - FIN
+    - NULL
+    - Xmas
+    - Idle
+
+- introduction to Nmap
+- Nmap port scanning
+- Nmap advance port scanning
+- Nmap -Bypass Firewall
+- Nmap -Types of scans..
+  
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 20/02/2026
+
+- Port scanning with hping3
+- port scanning with Pentest-tool
+- use Colasoft Packet Builder
+- introduction to Banner Grabbing
+- Banner Grabbing with ID serve
+- Banner Grabbing with NetCraft
+- Banner Grabbing with netcat
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 21/02/2026
+
+- Evading IDS and Firewalls
+- Scanning for Vulnerbilities
+- Nessus Vulnerbility
+- Nmap Scripting Engine
+- nikto Web Vulnerbility
+- OpenVas Installation and configuration
+- Vulnerbility Scanning with OpenVas
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 22/02/2026
+
+- Wordpress Vulnerbility
+- Mapping Networks
+- Network Topology Mapper
+- Spicworks Network Mapper
+- Lan state pro
+- Scanning countermeasures
+  
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 23/02/2026
+
+- [x] Learning Enumeration
+
+- Introduction to Enumeration
+- Techniques of Enumeretion
+- NetBIOS enumeretion
+- SMB Enumeretion
+- Working with NetBIOS and SMB Enumeretion
+- SNMP Enumeretion
+  
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 24/02/2026
+
+- LDAP Enumeretion
+- SMTP Enumeretion
+- Working SMTP Enumeretion
+- DNS Enumeretion
+- Introduction to DNS Zones
+- Introduction DNS Zone Transfer
+- DNS Zone Transfer using host command
+- and Practical all 
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 25/02/2026
+
+- nslookup tool
+- DNS Zone Transfer using nslookup
+- dig command
+- DNS Zone Transfer using dig command
+- NTP Enumeretion
+- Enumeration Countermeasures
+- and practical all tool..
+- Complet Basic enumeretion..
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 26/02/2026
+
 
 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 27/02/2026
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+Date - 228/02/2026
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
+
+
+
+
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+
