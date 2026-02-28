@@ -352,9 +352,50 @@ Date - 25/02/2026
 
 Date - 26/02/2026
 
+- [x] Full Practical This Day...
+- FTP enumeretion
+- SMTP enumeretion
+- SNMP enumeretion
+- DNS enumeretion
+- NetBIOS enumeretion
+- SMB enumretion 
+- HTTP enumretion
+- TCP enumeretion --- useing all with Nmap Scripts..
+- Service Version Detection
+- OS Detection
+- Banner grabbing
+- wordpress scan
+- find all TXT record
+- Etc.......................................
+
+![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
+Date - 27/02/2026
 
+- [x] Learning Juniour Pentesting Path in Tryhackme
+
+- Introduction to Cyber Security
+
+   - Offensive Security intro
+   - Defensive Security intro
+   - Careers in Cyber
+
+ - Introduction to pentesting
+
+    - Pentesting fundamentals
+    - Principles of Scurity
+
+  - Introduction to Web Hacking
+
+  - (1) Walking An Application
+
+     - introduction to walking an application
+     - Exploring the website
+     - Viewing the Page source
+     - Developer Tool Inspector 
+
+          
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 27/02/2026
