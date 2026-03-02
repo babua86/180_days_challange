@@ -429,7 +429,14 @@ Date - 01/03/2026
    - Manual Discovery - S3 Buckets
    - Manual Discovery - Automated Discovery
 
+- (3) Subdomain Enumeration
 
+   - Brief
+   - OSINT SSL/TLS Certificate
+   - OSINT Search Engines
+   - DNS Bruteforce
+   - OSINT Sublist3r
+   - Virtual Post
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
