@@ -438,9 +438,39 @@ Date - 01/03/2026
    - OSINT Sublist3r
    - Virtual Post
 
+ - (4) Authentication Bypass
+
+    - Brief
+    - Username Enumeration
+    - Brute Force
+    - Logic Flaw
+    - Cookie Tampering
+
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 02/03/2026
+
+- (5) IDOR
+
+   - What is an idor
+   - An idor example
+   - Finding idors and Encode IDS
+   - Finding idors in Hashed IDS
+   - Finding idors in Unpredictable IDS
+   - Whare are idors located
+   - A practical idor example
+ 
+- (6) File Inclusion
+
+   - Introduction
+   - Deploy the VM
+   - Path Traversal
+   - Local File Inclusion - LFI
+   - Local File Inclusion - LFI Continued
+   - Remote File Inclusion - RFI
+   - Ramediation
+   - Challange
+
 
 
 
