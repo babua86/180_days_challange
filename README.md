@@ -400,10 +400,35 @@ Date - 27/02/2026
 
 Date - 28/02/2026
 
+- Learning Nessus
+- full practical Nessus
+
+- Walking An Application {Tryhackme}
+
+  - Developer Tools - Debugger
+  - Developer Tools - Network
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 01/03/2026
+
+- [x] Tryhackme [ Junior Pentesting ]
+
+- (2) Content Discovery
+
+   - What is Content Discovery
+   - Manual Discovery - Robots.txt
+   - Manual Discovery - Favicon
+   - Manual Discovery - Sitemap.xml
+   - Manual Discovery - HTTP Header
+   - Manual Discovery - Framework Stack
+   - Manual Discovery - Google Hacking/Dorking
+   - Manual Discovery - Wappalyzer
+   - Manual Discovery - Wayback Machine
+   - Manual Discovery - GitHub
+   - Manual Discovery - S3 Buckets
+   - Manual Discovery - Automated Discovery
+
 
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
