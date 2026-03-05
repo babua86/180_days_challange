@@ -482,7 +482,7 @@ Date - 03/03/2026
 - How to work SSRF
 - Blacklist and Whitelist (SSRF)
 
-- [x] Tryhackme Lab SSRF
+- [x] Tryhackme Leb SSRF
 
 - What is an SSRF
 - SSRF Example
