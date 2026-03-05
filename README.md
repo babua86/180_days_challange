@@ -470,16 +470,25 @@ Date - 02/03/2026
    - Remote File Inclusion - RFI
    - Ramediation
    - Challange
-
-
-
+     
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 03/03/2026
 
+- [x] Learning SSRF
 
+- introduction to SSRF
+- How to work SSRF
+- Blacklist and Whitelist (SSRF)
 
+- [x] Tryhackme Lab SSRF
+
+- What is an SSRF
+- SSRF Example
+- Finding an SSRF
+- Defating common SSRF Defance
+- SSRF Practical...
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
