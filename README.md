@@ -510,7 +510,16 @@ Date - 05/03/2026
 
 Date - 06/03/2026
 
+- [x] Learning Web Application Hacking [ From Bitten Tech ]
 
+- Introduction to Web Application
+- Web Application Attack & Methodology
+- Web Application Attack Methodology Attacking
+- Web Application Attack Methodology Analyzing
+- Web Application Attack Methodology Attacking Authentication & Authorization 
+- Web Application Attack Methodology Performing Various Attacks 
+- Web Application Attack Methodology Attacking Web Application Clients
+- 
 
 
 
