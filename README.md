@@ -519,16 +519,25 @@ Date - 06/03/2026
 - Web Application Attack Methodology Attacking Authentication & Authorization 
 - Web Application Attack Methodology Performing Various Attacks 
 - Web Application Attack Methodology Attacking Web Application Clients
-- 
-
-
+- Introduction to Burpsuite
+- Burpsuite Basic, Working and Setup
+- Burpsuite Target and Spider Modules
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 Date - 07/03/2026
 
+- Byrpsuite Sequencet and Scaner Modules
+- Burpsuite Repeter Module
+- Burpsuite Intruder and Comparer Module [ Bitten Tech Course ]
+  
+- [x] Burpsuite [ Tryhackme Leb ]
 
-
+- Burp suite : Basic
+- Burp suite : Repeater
+- Burp suite : Intruder
+- Burp suite : Other Module
+- Burp suite : Extesion
 
 ![---------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
